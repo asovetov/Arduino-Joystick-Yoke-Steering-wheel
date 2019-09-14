@@ -15,3 +15,4 @@ http://arduino.cc/en/uploads/Tutorial/joy_sch_480.jpg
 Это вернет Ардуино в начальное состояние - можно прошивать скетчи из Ардуино IDE
 
 Чтобы посмотреть демонстрационное видео:
+https://youtu.be/zkE1SEWLDeM
